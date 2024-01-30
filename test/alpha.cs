@@ -957,7 +957,7 @@ namespace test
                     Console.WriteLine("\nFiche inexistante\n\n\n");
                 } // fin erreur
             }
-        } // a check avant déploiement (amélioration)    aaaaaa
+        } // a check avant déploiement (amélioration)
         static void SupprimerFiche()
         {
             int numero, nb;
