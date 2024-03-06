@@ -3,9 +3,9 @@ using System.IO;
 
 namespace test_unitaire_methode_lancerDes
 {
-    public class ListeMethodes
+    public class ListeMethodesTestUnitaire
     {
-        public static void LancerDes()
+        public static void TestLancerDes()
             {
             int nb1, nb2, nb3, nb4, min = 1, max, lance;
             bool stat = false, fin = false;
