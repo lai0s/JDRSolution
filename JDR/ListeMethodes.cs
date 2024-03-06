@@ -6,7 +6,7 @@ namespace JDR
     public class ListeMethodes
     {
         /// <summary>
-        /// /// remplit le tableau des stats du personnages créer ou modifier
+        /// /// remplit lu des stats du personnages créer ou modifier
         /// </summary>
         /// <param name="stats">tableau de stats</param>
         /// <param name="nb">numéro du tableau stat à remplir</param>
@@ -1347,3 +1347,4 @@ namespace JDR
         }
     }
 }
+//git c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbien
