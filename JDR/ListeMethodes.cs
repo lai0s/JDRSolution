@@ -6,7 +6,7 @@ namespace JDR
     public class ListeMethodes
     {
         /// <summary>
-        /// remplit le tableau de stats
+        /// /// remplit le tableau des stats du personnages créer ou modifier
         /// </summary>
         /// <param name="stats">tableau de stats</param>
         /// <param name="nb">numéro du tableau stat à remplir</param>
@@ -21,7 +21,7 @@ namespace JDR
                 if (!ok) // erreur
                 {
                     Console.WriteLine("Erreur de saisie de la stat, veuillez recommencer.");
-                } // fin erreur
+                } // erreur de saisis fin erreur
             }
         }
         /// <summary>
