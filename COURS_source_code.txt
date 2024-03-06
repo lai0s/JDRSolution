@@ -1,0 +1,38 @@
+GIT & GITHUB
+
+
+Pour savoir dans quelle branche je suis et voir les modifs en cours:
+git status
+
+Pour mettre a jours les versions:
+git pull
+
+Pour commit une branche:
+git commit -m <"DESCRIPTION DU COMMIT">
+
+
+Pour passer d'une branche à une autre 
+git checkout <nom de la branche>
+
+Pour créer une nouvelle branche:
+git checkout -b <nom de la branche>
+
+
+Pour supprimer une nouvelle branche:
+git checkout -d <nom de la branche>
+
+
+fusionner la branche:
+git merge
+
+Reprendre les modifications qui ont été valider: 
+git rebase
+
+git rebase avec option:
+- pick (pour garder le commit)
+- reword (pour modifier le message du commit)
+- edit (pour modifier le code) 
+
+Prendre le repo sans etre contributeur: ((on peut lui proposer une pull request))
+git fork 
+
