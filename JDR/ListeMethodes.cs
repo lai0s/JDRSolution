@@ -1348,3 +1348,4 @@ namespace JDR
     }
 }
 //git c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbiengit c tropbien
+//github a été racheté par microsoft, meilleur entreprise du monde, chargeant 25€ par mois pour le gamepass, ainsi que des abonnement pour 90% de leurs produits. J4ADORE GIT.MERCI.
