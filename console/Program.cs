@@ -174,37 +174,37 @@ namespace console
                             saisie = Console.ReadLine();
                             if (saisie == "1") // créer une fiche
                             {
-                                Class1.CreerFiche(ref user);
+                                ListeMethodes.CreerFiche(ref user);
                             } // fin créer une fiche
                             else
                             {
                                 if (saisie == "2") // modifier une fiche
                                 {
-                                    Class1.ModifierFiche(ref user);
+                                    ListeMethodes.ModifierFiche(ref user);
                                 } // fin modifier une fiche
                                 else
                                 {
                                     if (saisie == "3") // afficher une fiche
                                     {
-                                        Class1.AfficherFiche(ref user);
+                                        ListeMethodes.AfficherFiche(ref user);
                                     } // fin afficher une fiche
                                     else
                                     {
                                         if (saisie == "4") // afficher la liste
                                         {
-                                            Class1.AfficherListe(ref user);
+                                            ListeMethodes.AfficherListe(ref user);
                                         } // fin afficher la liste
                                         else
                                         {
                                             if (saisie == "5") // supprimer une fiche
                                             {
-                                                Class1.SupprimerFiche(ref user);
+                                                ListeMethodes.SupprimerFiche(ref user);
                                             } // fin supprimer une fiche
                                             else
                                             {
                                                 if (ok & saisie == "6") // restaurer une fiche
                                                 {
-                                                    Class1.RestaurerFiche(ref user);
+                                                    ListeMethodes.RestaurerFiche(ref user);
                                                 } // fin restaurer une fiche
                                                 else
                                                 {
@@ -227,7 +227,7 @@ namespace console
                     if (saisie == "2") // menu lancer dés
                     {
                         erreur = false;
-                        Class1.LancerDes();
+                        ListeMethodes.LancerDes();
                     } // fin menu lancer dés
                     if (saisie == "3") // déconnexion
                     {
