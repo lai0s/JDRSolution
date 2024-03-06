@@ -3,7 +3,7 @@ using System.IO;
 
 namespace JDR
 {
-    public class Class1
+    public class ListeMethodes
     {
         /// <summary>
         /// remplit le tableau de stats
