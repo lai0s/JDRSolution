@@ -1,0 +1,23 @@
+name: Workflow JDR
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+        - name: Checkout du code
+            uses: actions/checkout@v2
+
+        - name: Install dependencies
+            run: npm ci
+
+        - name: Build notre projet
+            run: npm run build
+
+        - name: Exécuter les tests Unitaires
+          run: npm run dotnet test path/to/ListeMethodesTestes.cs
