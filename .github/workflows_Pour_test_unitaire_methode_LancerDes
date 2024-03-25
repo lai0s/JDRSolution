@@ -1,4 +1,4 @@
-name: Workflow JDR
+name: Workflow JDR pour Test Unitaire
 
 on:
     push:
@@ -20,4 +20,4 @@ jobs:
             run: npm run build
 
         - name: Exécuter les tests Unitaires
-          run: npm run dotnet test path/to/ListeMethodesTestes.cs
+          run: npm run dotnet test ../obj/ListeMethodesTestUnitaire.cs
