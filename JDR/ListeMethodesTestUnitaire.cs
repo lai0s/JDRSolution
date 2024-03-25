@@ -7,6 +7,8 @@ namespace test_unitaire_methode_lancerDes
     {
         public static void TestLancerDes()
             {
+             //A refaire pour tester la fonction Test Lancer Des 
+            
             int nb1, nb2, nb3, nb4, min = 1, max, lance;
             bool stat = false, fin = false;
             char[] lancers = { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' };
